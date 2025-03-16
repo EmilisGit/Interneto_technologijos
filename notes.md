@@ -27,18 +27,17 @@
 * **CSS testavimas:** Nukopijuokite savo `stiliai.css` failo turinį ir patikrinkite jį naudodami [CSS validatorių](https://jigsaw.w3.org/css-validator/). Ištaisykite visas rastas klaidas.
 
 ### 5 Reikalavimai
-Įsitikinti, kad šie reikalavimai įvykdyti:
-    *Trys tinklapiai
-    * SEO atributai
-    * H1-H2
-    * Navbar/Nuorodos
-    * Paveikslėlis
-    * Lentelė
-    * Sąrašas
-    * Formos elementai (bent 3)
-    * CSS stiliaus failas
-    * Markdown failai
-    * Papildomas elementas
-    * Testavimas HTML
-    * Testavimas CSS
-    * Ataskaita
+    -  Trys tinklapiai
+    -  SEO atributai
+    -  H1-H2
+    -  Navbar/Nuorodos
+    -  Paveikslėlis
+    -  Lentelė
+    -  Sąrašas
+    -  Formos elementai (bent 3)
+    -  CSS stiliaus failas
+    -  Markdown failai
+    -  Papildomas elementas
+    -  Testavimas HTML
+    -  Testavimas CSS
+    -  Ataskaita
