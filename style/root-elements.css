@@ -26,16 +26,18 @@ table {
     overflow: hidden;
     margin: 2rem auto;
 }
-form {
-    margin-top: 5rem;
-    margin-bottom: 5rem;
-    text-align: center;
-}
 td, th{
     border-bottom: 1px solid #ddd;
     padding: 12px 15px;
     text-align: left;
 }
+
+form {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    text-align: center;
+}
+
 label {
     width: 35%;
     min-width: 150px;
@@ -58,7 +60,7 @@ textarea {
 }
 input[type="submit"] {
     background-color: var(--accent);
-    color: white;
+    color: var(--text-light);
     padding: 10px 15px;
     border: none;
     border-radius: 4px;
