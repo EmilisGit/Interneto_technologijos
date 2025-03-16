@@ -19,5 +19,5 @@ https://validator.w3.org/. Testavimui CSS – https://jigsaw.w3.org/css-validato
 Nuoroda į projektą:
 [Ruonių kirpykla](https://github.com/EmilisGit/Interneto_technologijos)
 
-# Autorius (Emilis)
+### Autorius (Emilis)
 [Emilis](https://github.com/EmilisGit)
