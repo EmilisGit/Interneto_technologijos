@@ -1,6 +1,4 @@
-## Interneto technologijos
-## Namų darbas 1
-## Emilis Šilingas, Dipf-22
+## Interneto technologijos Namų darbas 1
 
 Užduotis: Sukurti tinklapį savo pasirinkta tema ir pateikti ataskaitą.
 Nurodymai ir privalomi elementai tinklapyje:
@@ -17,3 +15,9 @@ o Formos elementai.
 ir/arba id, šriftus, teksto ir tinklapių/fono spalvas.
 4. Puslapio HTML ir CSS kodus pratestuoti. Testavimui naudoti HTML –
 https://validator.w3.org/. Testavimui CSS – https://jigsaw.w3.org/css-validator/.
+
+Nuoroda į projektą:
+[Ruonių kirpykla](https://github.com/EmilisGit/Interneto_technologijos)
+
+# Autorius (Emilis)
+[Emilis](https://github.com/EmilisGit)
